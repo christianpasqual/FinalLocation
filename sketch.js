@@ -129,7 +129,7 @@ var Puzzle = /** @class */ (function () {
             }
         });
         if (nrCorrect === nrCorrectNeeded) {
-            var h1 = createElement("h1", "Good Job!");
+            var h1 = createElement("h1", "Now, enjoy :)");
             this.canPlay = false;
         }
         else {
